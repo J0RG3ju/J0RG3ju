@@ -1,4 +1,4 @@
-<h1>✌Olá Mundo! Seja bem vindo , me chamo Jorge Luiz , tenho 19 anos , sou apaixonado por tecnologia e busco sempre aprender novas ferramentas , para um dia poder trabalhar na área. </h1>
+<h1>✌Olá Mundo!</h1>
 
 <div> 
   <a href="https://instagram.com/george_luizdsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
